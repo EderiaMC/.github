@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Nous somme Ederia</h1>
+<h1 align="center">Ederia Studio</h1>
 <h3 align="center">Un serveur minecraft du moment (on espere) en 1.8+</h3>
 
 - 🔭 On travaille actuellement sur notre projet [Ederia](https://discord.gg/dBRnNF4Exj)
